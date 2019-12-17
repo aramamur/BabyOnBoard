@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Baby on Board</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Baby on Board App</string>
+    <string name="nav_header_subtitle">The 12 Month Guide to Your New Child</string>
+    <string name="action_settings">Log Out</string>
+    <!-- Strings related to login -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
